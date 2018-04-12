@@ -10,6 +10,7 @@ namespace rand2
     {
         static void Main(string[] args)
         {
+            Random rand = new Random();
         }
     }
 }
